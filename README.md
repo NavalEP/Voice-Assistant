@@ -22,12 +22,12 @@ Before running this project, you need to have the following installed:
 ## Installation
 1. Clone the repository to your local machine using:
 
-- git clone <https://github.com/NavalEP/Voice-Assistant>
+-- git clone <https://github.com/NavalEP/Voice-Assistant>
 2. Ensure you have ChromeDriver installed in the root directory of the project.
 
 3. Install all required Python libraries:
 
--pip install -r requirements.txt
+--pip install -r requirements.txt
 
 ### python assistant.py
 ## Usage
